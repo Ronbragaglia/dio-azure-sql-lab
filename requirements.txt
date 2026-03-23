@@ -1,0 +1,13 @@
+requests 
+getpass4 
+pytest 
+pytest-cov 
+black 
+flake8 
+mypy 
+isort 
+pre-commit 
+pyodbc 
+sphinx 
+sphinx-rtd-theme 
+myst-parser
